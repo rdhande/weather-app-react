@@ -12,6 +12,14 @@ root.render(
     <div className="App">
       <h1>Weather App</h1>
       <Weather />
+      <br />
+      <a
+        href="https://github.com/rdhande/weather-app-react"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        Made with Love
+      </a>
     </div>
   </StrictMode>
 );
